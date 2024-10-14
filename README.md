@@ -9,8 +9,6 @@ Este projeto implementa um solucionador de sistemas lineares de equações utili
 - **Entrada personalizada**: O usuário pode inserir seu próprio sistema de equações diretamente no terminal.
 - **Sem dependências externas**: Todo o código foi implementado manualmente, sem o uso de bibliotecas externas como NumPy ou SciPy.
 
-## Como o código funciona
-
 ### Método de Eliminação de Gauss
 
 O algoritmo de eliminação de Gauss é utilizado para resolver o sistema linear. O processo consiste em:
@@ -28,13 +26,9 @@ O usuário deve fornecer:
 
 O programa apresenta o seguinte exemplo pré-definido para o usuário:
 
-\[
-\begin{aligned}
 x + 2y + z &= 0 \\
 -x + 3z &= 5 \\
 x - 2y + z &= 1
-\end{aligned}
-\]
 
 A solução desse sistema será calculada e exibida ao usuário.
 
