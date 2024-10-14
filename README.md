@@ -26,8 +26,8 @@ O usuário deve fornecer:
 
 O programa apresenta o seguinte exemplo pré-definido para o usuário:
 
-x + 2y + z &= 0 \\
--x + 3z &= 5 \\
+x + 2y + z &= 0 
+-x + 3z &= 5 
 x - 2y + z &= 1
 
 A solução desse sistema será calculada e exibida ao usuário.
